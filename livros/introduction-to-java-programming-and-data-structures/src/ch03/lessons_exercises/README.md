@@ -1,13 +1,9 @@
-<style>
-    .answer {color: #718096; font-style: italic;}
-</style>
-
 # Exercises - Chapter 3
 
 ## 3.12.1
 
 What happens if you enter an integer as 05?\
-<span class="answer">It works.</span>
+Answer: It works.
 
 ## 3.13.1
 

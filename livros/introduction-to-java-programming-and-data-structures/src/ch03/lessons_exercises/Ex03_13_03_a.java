@@ -1,4 +1,4 @@
-package ch02.lessons_exercises;
+package ch03.lessons_exercises;
 
 public class Ex03_13_03_a {
     public static void main(String[] args) {

@@ -1,8 +1,12 @@
-# Repositório de cursos
+# Repositório de estudos
 
-Aqui registro todos os meus estudos feitos online como forma de registrar o meu conhecimento em diversas linguagens.
+Repositório onde eu guardo tudo o que eu estudo de programação
 
-## Sites/canais
+# Cursos
+
+Estudos divididos em plataformas próprias e em canais do Youtube.
+
+## Plataformas
 
 ### [Alura](https://www.alura.com.br/)
 A Alura é uma plataforma brasileira de cursos online de tecnologia, design e negócios digitais. É a maior escola online de tecnologia do Brasil. 
@@ -12,6 +16,12 @@ Aprenda a programar de VERDADE, com menos aulas e mais prática. Faça projetos 
 Construa seu portfólio com projetos de mercado. Desenvolva projetos inovadores e crie soluções em conjunto com experts para manter o seu portfólio atualizado.
 ### [Free-Code-Camp](https://www.freecodecamp.org/)
 freeCodeCamp is a free online learning platform that teaches people how to code. It's a non-profit organization that's supported by donations. 
+### [Javanauta](https://javanauta.com.br/)
+Aprenda Java com Spring, Angular e React do Básico ao Avançado com um Treinamento Fullstack totalmente baseado no que as empresas pedem.
+
+
+## Youtube
+
 ### [Youtube - Alura](https://www.youtube.com/@alura)
 11 anos transformando a comunidade tech do país. Prepare-se para o próximo nível da sua carreira em tecnologia!​
 ### [Youtube - Bóson Treinamentos](https://www.youtube.com/@bosontreinamentos)
@@ -24,3 +34,10 @@ As mais finas artes da programação.
 Aqui você aprende tudo sobre o universo da programação. Temos cursos e projetos de tecnologias alinhadas ao mercado de trabalho.
 ### [Youtube - Otávio Miranda](https://www.youtube.com/c/Ot%C3%A1vioMiranda)
 Por mais de 12 anos com desenvolvimento de softwares para terceiros usando várias linguagens, libs e frameworks diferentes. Das linguagens que trabalhei, me especializei em JavaScript, Python e PHP (tenho cursos ministrados nessas linguagens somando mais de 600 horas de conteúdo). Atuei tanto em front-end, back-end e mobile (full stack). Também atuei no setor de provedores de internet, trabalhando com infraestrutura de redes (wireless, fibra óptica, cabeamento, etc...) e  administração de servidores Linux. 
+
+# Livros
+
+### [Introduction to Java™ Programming and Data Structures Comprehensive Version](https://www.amazon.com/Introduction-Programming-Structures-Comprehensive-Version/dp/0134670949)
+
+A fundamentals-first introduction to basic programming concepts and techniques.
+

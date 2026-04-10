@@ -57,3 +57,14 @@ Rewrite the following if statements using the conditional operator.
         else
             ticketPrice = 10;
 ```
+## 3.14.3
+
+Rewrite the following codes using if-else statements.
+
+a. score = (x > 10) ? 3 * scale : 4 * scale;
+b. tax = (income > 10000) ? income * 0.2 : income * 0.17 + 1000;
+c. System.out.println((number % 3 == 0) ? i : j);
+
+## 3.14.4
+
+Write an expression using a conditional operator that returns randomly -1 or 1.

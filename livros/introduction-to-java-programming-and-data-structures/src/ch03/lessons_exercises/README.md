@@ -29,3 +29,31 @@ Write a switch statement that displays Sunday, Monday, Tuesday, Wednesday, Thurs
 ## 3.13.5
 
 Rewrite Listing 3.9 using an  if-else  statement.
+
+## 3.14.1
+
+Suppose when you run the following program, you enter the input 2 3 6 from the console. What is the output?
+
+```java
+public class Test {
+    public static void main(String[] args) {
+        Scanner input = new java.util.Scanner(System.in);
+        double x = input.nextDouble();
+        double y = input.nextDouble();
+        double z = input.nextDouble();
+        System.out.println((x < y && y < z) ? "sorted" : "not sorted");
+    }
+}
+```
+Answer: sorted.
+
+## 3.14.2
+
+Rewrite the following if statements using the conditional operator.
+
+```java
+        if (ages >= 16)
+            ticketPrice = 20;
+        else
+            ticketPrice = 10;
+```

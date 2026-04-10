@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+:root {
+    --primary-color: #d92121;
+    --secondary-color: #6c0000;
+}
+
+.largura {
+    width: 800px;
+    margin: 0 auto;
+}
+
+header {
+    padding: 20px 0;
+}
+
+header p {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.imagem-carro {
+    background-image: url('img/capa.jpg');
+    height: 60vh;
+    background-size: cover;
+}
+
+.texto-imagem {
+
+    background-color: rgb(0, 0, 0, 0.5);
+}
+
+.texto-banner {
+    color: white;
+    text-align: end;
+    margin: 0 auto;
+    padding: 40px;
+    font-size: 24px;
+    font-weight: 550;
+    line-height: 1em;
+}
+
+.sobre-nos p {
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+.beneficios p {
+    border-left: 1px solid black;
+    padding-left: 10px;
+    margin: 10px 0;
+}
+
+.secao-contato {
+    background-color: var(--primary-color);
+    padding: 30px 0;
+}
+
+
+.secao-contato h1 {
+    color: white;
+    background-color: var(--secondary-color);
+    text-align: center;
+    font-size: 30px;
+}
+
+fieldset :where(legend, label, input) {
+    display: block;
+    margin: 10px 0 5px 20px;
+    /* text-align: center; */
+}
+
+fieldset input {
+    width: 95%;
+    padding: 5px;
+    margin: 0 auto 20px;
+    box-sizing: border-box;
+}
+
+.botao {
+    background-color: var(--primary-color);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+}
+
+footer {
+    color: var(--primary-color);
+    text-align: center;
+}
+
+.texto-forms, .texto-secoes {
+    text-align: center;
+    margin: 20px auto;
+}
+
+.texto-forms :where(h2, p) {
+    margin: 10px auto;
+}

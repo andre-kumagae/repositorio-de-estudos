@@ -1,0 +1,144 @@
+body {
+    margin: 0;
+    font-family: Tahoma;
+}
+
+.menu img {
+    width: 150px;
+}
+
+.menu {
+    background-color: #b0ddfc;
+    text-align: center;
+}
+
+.espacamento {
+    padding-top: 25px;
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+.paragrafos {
+    font-size: 18px;
+    line-height: 28px;
+    margin: 10px auto;
+    width: 980px;
+}
+
+nav a {
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.imagem-banner {
+    margin: 50px 0 0;
+    padding: 0;
+}
+
+h2 {
+    margin: 0px;
+    padding-bottom: 25px;
+}
+
+#sobre h1 {
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+.texto-azul, #sobre span {
+    color: #1c81c0;
+}
+
+#sobre h2{
+    margin-top: 0;
+    font-weight: normal;
+}
+
+.tamanho-imagem {
+    width: 450px;
+}
+
+span {
+    font-weight: bold;
+}
+
+#servicos {
+    background-color: #1d80c1;
+    color: #ffffff;
+}
+
+.subtitulo {
+    margin: 0 auto 25px;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+#servicos p {
+    width: 700px;
+    font-size: 22px;
+    line-height: 42px;
+    text-align: center;
+}
+
+.texto-amarelo {
+    color: yellow;
+}
+
+#servicos ul {
+    width: 135px;
+    margin: 40px auto;
+}
+
+#servicos li {
+    line-height: 42px;
+    font-size: 22px;
+    text-align: left;
+}
+
+.corretores h2, .corretores span {
+    color: #4780ab;
+}
+
+.contato {
+    background-color: #1d80c1;
+    color: #ffffff;
+    padding-bottom: 5px;
+}
+
+.paragrafo-contato {
+    color: #fff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.contato ul {
+    list-style-type: none;
+    margin-bottom: 25px;
+}
+
+.contato a {
+    margin: 40px 0;
+    width: 210px;
+    list-style: none;
+    background-color: white;
+    line-height: 40px;
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+    color: #1d80c1;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
+
+/* 
+fonte
+alinhamento padding está otimizado
+li nao ta centralizada
+iframe ta deslinhado
+li do footer ta desalinhado
+*/

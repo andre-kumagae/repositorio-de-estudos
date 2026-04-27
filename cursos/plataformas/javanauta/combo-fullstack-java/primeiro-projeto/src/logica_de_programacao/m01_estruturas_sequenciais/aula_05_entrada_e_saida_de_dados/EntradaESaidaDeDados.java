@@ -1,4 +1,4 @@
-package modulo01_logica_de_programacao_estruturas_sequenciais.aula_05_entrada_e_saida_de_dados;
+package logica_de_programacao.m01_estruturas_sequenciais.aula_05_entrada_e_saida_de_dados;
 
 import java.util.Scanner;
 

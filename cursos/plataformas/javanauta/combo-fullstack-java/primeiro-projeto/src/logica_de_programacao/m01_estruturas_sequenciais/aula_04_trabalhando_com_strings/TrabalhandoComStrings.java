@@ -1,4 +1,4 @@
-package modulo01_logica_de_programacao_estruturas_sequenciais.aula_04_trabalhando_com_strings;
+package logica_de_programacao.m01_estruturas_sequenciais.aula_04_trabalhando_com_strings;
 
 public class TrabalhandoComStrings {
     public static void main(String[] args) {

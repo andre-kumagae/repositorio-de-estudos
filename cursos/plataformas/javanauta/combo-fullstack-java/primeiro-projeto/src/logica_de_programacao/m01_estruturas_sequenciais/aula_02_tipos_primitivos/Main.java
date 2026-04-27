@@ -1,4 +1,4 @@
-package modulo01_logica_de_programacao_estruturas_sequenciais.aula_02_tipos_primitivos;
+package logica_de_programacao.m01_estruturas_sequenciais.aula_02_tipos_primitivos;
 
 public class Main {
     public static void main(String[] args) {

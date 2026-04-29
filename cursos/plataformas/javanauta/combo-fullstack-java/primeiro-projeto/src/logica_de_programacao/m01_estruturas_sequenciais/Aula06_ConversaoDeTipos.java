@@ -1,6 +1,6 @@
-package logica_de_programacao.m01_estruturas_sequenciais.aula_06_casting;
+package logica_de_programacao.m01_estruturas_sequenciais;
 
-public class ConversaoDeTipos {
+public class Aula06_ConversaoDeTipos {
     public static void main(String[] args) {
         int numeroInteiro = 10;
         System.out.println("numeroInteiro = " + numeroInteiro);

@@ -1,6 +1,6 @@
-package logica_de_programacao.m02_estruturas_condicionais.aula01_expresooes_comparativas;
+package logica_de_programacao.m02_estruturas_condicionais;
 
-public class ExpressoesComparativas {
+public class Aula01_ExpressoesComparativas {
     public static void main(String[] args) {
         int pao = 10;
         int acucar = 20;

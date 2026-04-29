@@ -1,6 +1,6 @@
-package logica_de_programacao.m02_estruturas_condicionais.aula02_operadores_logicos;
+package logica_de_programacao.m02_estruturas_condicionais;
 
-public class OperadoresLogicos {
+public class Aula02_OperadoresLogicos {
     public static void main(String[] args) {
         boolean verdadeiro = true;
         boolean falso = false;

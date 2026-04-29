@@ -1,6 +1,6 @@
-package logica_de_programacao.m01_estruturas_sequenciais.aula_04_trabalhando_com_strings;
+package logica_de_programacao.m01_estruturas_sequenciais;
 
-public class TrabalhandoComStrings {
+public class Aula04_TrabalhandoComStrings {
     public static void main(String[] args) {
         String nome = "Joana";
         String sobrenome = " da Silva";

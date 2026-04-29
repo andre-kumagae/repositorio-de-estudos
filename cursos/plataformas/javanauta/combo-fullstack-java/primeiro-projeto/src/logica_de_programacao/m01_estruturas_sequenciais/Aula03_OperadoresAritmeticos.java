@@ -1,6 +1,6 @@
-package logica_de_programacao.m01_estruturas_sequenciais.aula_03_operadores_aritmeticos;
+package logica_de_programacao.m01_estruturas_sequenciais;
 
-public class OperadoresAritmeticos {
+public class Aula03_OperadoresAritmeticos {
     public static void main(String[] args) {
         double pao = 9.50;
         double queijo = 7.00;

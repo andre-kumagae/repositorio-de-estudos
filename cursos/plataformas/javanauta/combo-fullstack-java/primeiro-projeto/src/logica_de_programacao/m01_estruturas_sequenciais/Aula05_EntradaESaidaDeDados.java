@@ -1,8 +1,8 @@
-package logica_de_programacao.m01_estruturas_sequenciais.aula_05_entrada_e_saida_de_dados;
+package logica_de_programacao.m01_estruturas_sequenciais;
 
 import java.util.Scanner;
 
-public class EntradaESaidaDeDados {
+public class Aula05_EntradaESaidaDeDados {
     public static void main(String[] args) {
         System.out.println("Impressão pulando a linha");
         System.out.print("Impressão na mesma linha");

@@ -1,6 +1,6 @@
-package logica_de_programacao.m01_estruturas_sequenciais.aula_02_tipos_primitivos;
+package logica_de_programacao.m01_estruturas_sequenciais;
 
-public class Main {
+public class Aula02_TiposPrimitivos {
     public static void main(String[] args) {
         int idade = 25;
         long quantidadeDeCachorros = 10L;

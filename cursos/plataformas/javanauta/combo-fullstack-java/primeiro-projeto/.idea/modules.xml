@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/m04_jdk25_diferencas/m04_jdk25_diferencas.iml" filepath="$PROJECT_DIR$/m04_jdk25_diferencas/m04_jdk25_diferencas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos_jdk17/modulos_jdk17.iml" filepath="$PROJECT_DIR$/modulos_jdk17/modulos_jdk17.iml" />
       <module fileurl="file://$PROJECT_DIR$/primeiro-projeto.iml" filepath="$PROJECT_DIR$/primeiro-projeto.iml" />
     </modules>
   </component>

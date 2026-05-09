@@ -10,5 +10,11 @@ public class Casa {
         casa.cor = "Cinza";
         casa.construir();
         casa.pintar();
+        System.out.println("");
+        PlantaCasa casaVizinho = new PlantaCasa();
+        casaVizinho.alterarCaracteristicas(200, 4, 2, "Alvenaria");
+        casaVizinho.construir();
+        int resultado = casaVizinho.somarMetragem();
+        System.out.println(resultado);
     }
 }
